@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# React Next App
 
-## Getting Started
+- features:
+  - Data Sorting and Filtering
+  - Responsive Layout
+  - Switch Dark/Light Mode
+  - Server-Side Rendering
 
-First, run the development server:
+## Install
 
-```bash
-npm run dev
-# or
-yarn dev
+Some basic Git commands are:
+
+```
+$ git clone https://github.com/danaharley/world-ranks-app.git
+$ cd world-ranks
+$ npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Run the application for development
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```
+$ npm run dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Run the application for production
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+$ npm run start
+```
 
-## Learn More
+## Languages & tools
 
-To learn more about Next.js, take a look at the following resources:
+- [Node](https://nodejs.org/en/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [React](https://reactjs.org/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Next](https://nextjs.org/)
 
-## Deploy on Vercel
+- [Material UI](https://material-ui.com/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+`credit` learn from https://devchallenges.io/
